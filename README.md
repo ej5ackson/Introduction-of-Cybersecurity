@@ -52,8 +52,8 @@ A well-structured incident report captures all vital details about a security ev
 ## 📫 Get in Touch
 
 Feel free to connect for collaborations, sharing insights, or discussions on cybersecurity best practices.
-Email: **ej5ackson@gmail.com**
-Github: **https://github.com/ej5ackson/ej5ackson/edit/main/README.md**
+- Email: **ej5ackson@gmail.com**
+- Github: **https://github.com/ej5ackson/ej5ackson/edit/main/README.md**
 
 ---
 
