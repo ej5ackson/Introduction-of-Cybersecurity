@@ -11,7 +11,6 @@ Proper documentation is the backbone of a resilient cybersecurity framework. It 
 
 ### Why Documentation Matters
 
-![Checklist Icon](https://img.icons8.com/ios/50/000000/checklist.png)  
 ✅ **Helps in forensic investigation**  
 ✅ **Aids in compliance reporting**  
 ✅ **Improves incident response efficiency**  
