@@ -26,8 +26,6 @@ A well-structured incident report captures all vital details about a security ev
 
 ### Key Components:
 
-![Report Icon](https://img.icons8.com/ios/50/000000/report-card.png)
-
 - **Incident Summary**  
   Brief overview of what happened, when, and how.
 
